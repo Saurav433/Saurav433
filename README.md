@@ -67,7 +67,7 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sauravgc" target="_blank">
+  <a href="https://www.linkedin.com/in/saurav-g-c-885964324" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://sauravgc.com.np" target="_blank">
@@ -78,3 +78,4 @@
 ---
 
 <p align="center"><i>Keep learning. Keep building. Ship often. 💻🔥</i></p>
+
